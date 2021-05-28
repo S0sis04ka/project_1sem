@@ -90,8 +90,8 @@ function main(){
 	var h = canvas_example.height;
 	var w = canvas_example.width;
 
-	dx = 5;
-	dy = 5;
+	dx = 50;
+	dy = 50;
 
 	x = w/dx;
 	y = h/dy;
